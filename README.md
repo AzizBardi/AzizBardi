@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AzizBardi
-- 👀 I’m interested in Machine Learning, Algorithmic Trading, Creating Artificial Intelligence in finance
+- 👀 I’m interested in Blockchain, Machine Learning, Algorithmic Trading, Creating Artificial Intelligence especially in finance
 - 💞️ I’m looking to collaborate on Several projects that are related to my fields of interest
 - 📫 How to reach me Bardiaziz@yahoo.com  
 
